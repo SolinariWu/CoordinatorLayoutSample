@@ -5,3 +5,5 @@
 
 **Blog Article(Chinese)**:https://solinariwu.blogspot.tw/2017/02/android-recyclerviewtoolbar.html
 
+Reference:https://mzgreen.github.io/2015/06/23/How-to-hideshow-Toolbar-when-list-is-scrolling(part3)/
+
